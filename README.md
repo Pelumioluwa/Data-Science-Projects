@@ -1,2 +1,1 @@
-# MBAN6110Class
-Practice code for MBAN 6110 Class
+This is a folder with data science and machine learning codes I have built
