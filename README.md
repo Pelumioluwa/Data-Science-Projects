@@ -11,7 +11,7 @@ These projects encompass a diverse array of topics, ranging from analyses of Key
 - **Customer Churn Prediction**: Analyzing customer behavior data to predict churn rates and identify factors influencing customer retention.
 - **Customer Behavior Analysis**: Utilizing customer data to understand and segment customer behavior patterns.
 - **Toronto Police Crime Period Predictor**: Developing a predictive model to forecast crime rates based on time and day, aiding law enforcement in resource allocation and planning.
-- **
+- **A/B Mobile App Testing** : Sample test and experiment on the customer's likelyhood to move through different parts of a feature. 
 
 ## Folder Structure
 
